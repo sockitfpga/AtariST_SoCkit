@@ -1,3 +1,11 @@
+
+
+# Atari ST/STe for [SoCkit (MiSTer) Platform](https://github.com/sockitfpga/MiSTer_SoCkit) 
+
+This is a port to SoCkit from Mister https://github.com/MiSTer-devel/AtariST_MiSTer
+
+Follows original ReadMe.
+
 # Atari ST/STe for MiSTer (port of MiSTery)
 
 Thanks to Gyorgy Szombathelyi for MiSTery core
